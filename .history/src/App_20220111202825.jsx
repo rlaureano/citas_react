@@ -1,0 +1,14 @@
+ import Header from "./components/Header"
+ 
+ function App() {
+   
+  const mensaje = "Hola"
+  return (
+    <>
+       <Header />
+    </>
+  )
+}
+
+export default App
+ 
